@@ -13,7 +13,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        // Add namespaces for our views
+        $this->app['view']->addNamespace('Admin', base_path() . '/resources/views/admin');
+        $this->app['view']->addNamespace('Client', base_path() . '/resources/views/client');
     }
 
     /**
