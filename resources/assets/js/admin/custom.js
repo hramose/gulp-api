@@ -1,1 +1,1 @@
-var three = 'note';
+var three = 'notes';
