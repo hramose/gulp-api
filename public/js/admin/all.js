@@ -1,2 +1,2 @@
-var three = 'note';
+var three = 'notes';
 //# sourceMappingURL=all.js.map

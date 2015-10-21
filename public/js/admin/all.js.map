@@ -1,1 +1,1 @@
-{"version":3,"sources":["custom.js"],"names":[],"mappings":"AAAA","file":"all.js","sourcesContent":["var three = 'note';"],"sourceRoot":"/source/"}
+{"version":3,"sources":["custom.js"],"names":[],"mappings":"AAAA","file":"all.js","sourcesContent":["var three = 'notes';"],"sourceRoot":"/source/"}
