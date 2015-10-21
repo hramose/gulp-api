@@ -2,7 +2,7 @@
 <head>
   	<meta charset="UTF-8">
 	<meta name="description" content="meta-description">
-  	<title>title</title>
+  	<title>Client Section</title>
 
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="/css/client/app.css">
