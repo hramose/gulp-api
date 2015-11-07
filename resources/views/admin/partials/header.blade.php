@@ -25,4 +25,4 @@
 </head>
 <body>
 <div id="wrap">
-	<div class="main">
+	<div id="main">
